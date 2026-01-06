@@ -5,7 +5,6 @@ body {
 }
 
 section {
-  background: white;
   padding: 20px;
   margin-bottom: 20px;
   border-radius: 8px;
@@ -17,6 +16,6 @@ a {
 }
 
 .beaute {
-  background: red;
+  background: gray;
   border-radius: 2px ;
 }
