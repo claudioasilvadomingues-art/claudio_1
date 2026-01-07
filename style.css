@@ -21,7 +21,11 @@ a {
   
 }
 
-.le_gros {
+.le_petit {
   background: #7F8487;
+  border-radius: 15px;
+}
+.le_gros {
+  background: #D3DAD9;
   border-radius: 15px;
 }
